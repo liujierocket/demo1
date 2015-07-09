@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">包你妹</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	 <string name="bomb">炸弹</string>
+    <string name="rocket">火箭</string>
+    <string name="fire">点火</string>
+    <string name="launch">发射</string>
+</resources>

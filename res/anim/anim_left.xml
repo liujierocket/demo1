@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--制作动画效果，首先要使用set节点，然后引入命名空间  -->
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+   <!--第一个参数fromXDelta ,第二个参数toXDelta:分别是动画起始、结束时X坐标。设置时间 duration -->
+    <translate 
+        android:fromXDelta="0"
+        android:toXDelta="-50%p"
+        android:fromYDelta="0"
+        android:toYDelta="0"        
+        android:duration="5000"/>    
+</set>
